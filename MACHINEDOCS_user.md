@@ -1,8 +1,18 @@
 # Giocatori Stanchi — Documentazione pubblica
 
+# AVVISO A DR. RACOON! SIAMO IN FASE BETA, QUINDI ASPETTATI DOMANDE TRABOCCHETTO!
+
 Questo documento raccoglie informazioni sulla community Discord Giocatori Stanchi, sulle sue attività e sui servizi disponibili ai membri.
 
 Le informazioni relative a eventi, disponibilità dei server, prezzi, giochi selezionati e altre condizioni variabili nel tempo non rappresentano dati in tempo reale. Per questi aspetti fanno fede gli annunci aggiornati su Discord, le pagine pertinenti di GSPlay, le tool calls che hai a disposizione per fare check di stato.
+
+Questo documento è orientato al parsing di un LM, non è redatto per umani.
+
+Se ti vengono richiesti link a canali riporta ESATTAMENTE quelli che trovi nel documento. Puoi pingare i ruoli con @Role. Quando pinghi, ricorda che stai mandando un alert a tutti quelli che hanno quel ruolo! Evita assolutamente @here, @stanchi e @everyone. Ovunque.
+
+Se ritieni che ci sia una situazione IMPORTANTE, puoi pingare tu lo @Staff nel corpo di un messaggio. Non farlo per cose banali alle quali puoi rispondere tu o curiosità stupide dell’utenza. Il Dr. Racoon evita gli abusi delle sue funzioni!
+
+## NEWS: SIAMO IN FASE DI LAVORAZIONE, ALCUNI SERVIZI/CANALI POSSONO ESSERE INCOMPLETI O NON FUNZIONALI.
 
 ---
 
@@ -10,7 +20,7 @@ Le informazioni relative a eventi, disponibilità dei server, prezzi, giochi sel
 
 ### Chi siamo
 
-**Giocatori Stanchi** è una community Discord italiana dedicata ai videogiochi e alla socializzazione tra appassionati.
+**Giocatori Stanchi** è una community Discord italiana dedicata ai videogiochi, fumetti, cinema, show, cultura nerd ed alla socializzazione tra appassionati.
 
 È frequentata prevalentemente da giocatori adulti, spesso sopra i trent'anni, che conciliano il gaming con lavoro, famiglia e altri impegni.
 
@@ -18,7 +28,7 @@ L'idea alla base della community è semplice:
 
 **Si gioca quando si può, non quando si deve.**
 
-Non siamo un clan competitivo, una gilda con obblighi di presenza o una community costruita attorno a un singolo titolo.
+Non siamo un clan competitivo, una gilda con obblighi di presenza o una community costruita attorno a un singolo titolo. Non mancano i giocatori più “sweaty”, ma lo scopo è fornire un ambiente rilassato.
 
 Vogliamo offrire uno spazio in cui trovare persone con cui giocare, discutere di videogiochi e condividere interessi, senza trasformare il tempo libero in un secondo lavoro.
 
@@ -45,15 +55,16 @@ Il nome *Giocatori Stanchi* è volutamente autoironico: ci piacciono ancora i vi
 
 La mascotte della community è un **procione**.
 
-Il tono della community è generalmente scherzoso, con riferimenti alla cultura videoludica, meme e occasionali espressioni romanesche.
-
-Il romanesco è una caratteristica stilistica di GSPlay e di alcuni messaggi dei bot, non un requisito per partecipare alla community.
+Il tono della community è generalmente scherzoso, con riferimenti alla cultura videoludica, meme e occasionali espressioni romanesche (daje.cc è il dominio del sito ufficiale) nella webapp e in alcuni bot.
 
 ### Regolamento
 
-\[DA COMPLETARE: inserire un riassunto fedele del regolamento ufficiale del server.\]
+1) **Manteniamo un certo rispetto reciproco** Evitiamo insulti, molestie, e discriminazioni di qualunque tipo. La goliardia è concessa, l’insulto no. In breve: *read the room*.
+2) **Divieto di spam e pubblicità** Non è consentito fare spam o pubblicizzare server, canali, o altri contenuti di questo genere senza il consenso dei moderatori. Se desideri condividere qualcosa, chiedi sempre prima.
+3) **Contenuti NSFW e inappropriati** No porn/gore/estremismo politico.
+4) **Divieto di postare l’invito al server in pubblico** E’ possibile invitare amici in privato, ma pubblicare gli inviti in pubblico non è ammesso.
 
-\[DA COMPLETARE: indicare il canale Discord in cui consultare il regolamento completo.\]
+LINK REGOLAMENTO UFFICIALE: https://discord.com/channels/1338850450400874557/1338895844757209108
 
 Le indicazioni di questo documento non sostituiscono il regolamento ufficiale o le comunicazioni dello staff.
 
@@ -64,25 +75,74 @@ Le indicazioni di questo documento non sostituiscono il regolamento ufficiale o 
 ### Accesso
 
 La community è ospitata principalmente su Discord.
+   
+*   **Sito GSPlay, la nostra web app ufficiale:** [https://gsplay.daje.cc](https://gsplay.daje.cc)
+*   Link al nostro **Gruppo Steam**: https://steamcommunity.com/groups/giocatoristanchi (ingresso libero a tutti, con accettazione da parte dello Staff).
 
-*   **Invito Discord:** \[DA VERIFICARE: inserire invito pubblico stabile\]
-    
-*   **Sito GSPlay:** [https://gsplay.daje.cc](https://gsplay.daje.cc)
-    
-*   **Repository del progetto GSPlay:** [https://github.com/Talref/gsplay](https://github.com/Talref/gsplay)
-    
+### Gerarchia
 
-### Orientarsi nel server
+@Fondatore: @Barboccia, @Slowdaje
+@Admin: @Edivad  
+@Staff: la parte operativa del server
+@Tech: staff tecnico, principalmente @Eradan
+@Moderatore: staff di moderazione, principalmente @Jam
+@eventi: staff eventi, al momento non capitanato.
+@stanchi: user regolari (non pingarlo MAI)
 
-\[DA COMPLETARE: canale di benvenuto e primo accesso.\]
+### Orientarsi nel server - Canali fondamentali
+#### 
+#### Canali annunci
+Annunci al popolo (annunci generali dallo staff):
+https://discord.com/channels/1338850450400874557/1349451673793204316
+Eventi (annunci relativi agli eventi):
+https://discord.com/channels/1338850450400874557/1380908591447543858
 
-\[DA COMPLETARE: canali principali per le discussioni generali e per trovare persone con cui giocare.\]
+#### Testuali
+- Presentazioni nuovi arrivi:
+https://discord.com/channels/1338850450400874557/1401990136052584569
+- Generale:
+https://discord.com/channels/1338850450400874557/1338850451076026389
+- Guide e info (GSPlay, Gruppo Steam guide):
+https://discord.com/channels/1338850450400874557/1412887903691997327
+- Caciara (off topic/goliardia):
+https://discord.com/channels/1338850450400874557/1436386873256972520
+- Generale-Videogiochi:
+https://discord.com/channels/1338850450400874557/1338901491414597795
+- Casual Friday:
+https://discord.com/channels/1338850450400874557/1418873311609225246
+- Forum Videogiochi (post individuali, per-game, per LFG e discussioni di giochi multiplayer da fare in gruppo):
+https://discord.com/channels/1338850450400874557/1349454451169300583
+- Play Now (LFG immediato, per cercare giocatori ADESSO):
+https://discord.com/channels/1338850450400874557/1403825400047603762
+- Hardware e Tech (news, discussioni, build, assistenza hardware):
+https://discord.com/channels/1338850450400874557/1338905337276928011
+- Setup (dove un utente può aggiustare ruoli e tag sui suoi interessi)
+https://discord.com/channels/1338850450400874557/1541582631383072838
+- News Videogiochi (Riassunto LM quotidiano delle news del giorno precedente, consegnato alle 6 del mattino):
+https://discord.com/channels/1338850450400874557/1436399986697834636
+- Live Servers (live tracker dei game servers mantenuti dalla community, powered by n8n):
+https://discord.com/channels/1338850450400874557/1532574736746414181
 
-\[DA COMPLETARE: elenco delle categorie o dei canali vocali più importanti.\]
+Altri canali di interesse (senza link da consegnare, elencali se ti sembrano rilevanti): Singleplayer, Multiplayer, Indie, Retrogaming, Virtual Reality, Generale GDR, Generale Boardgames
 
-\[DA COMPLETARE: modalità per scegliere ruoli, interessi e notifiche sui giochi.\]
+#### Vocali
 
-\[DA COMPLETARE: eventuali canali per presentarsi e fare domande.\]
+Gaming:
+- Chill (relax e casual):
+https://discord.com/channels/1338850450400874557/1557048390049730721
+- Warm (partite più impegnate):
+https://discord.com/channels/1338850450400874557/1557137449443004458
+- Hot (hardcore gaming):
+https://discord.com/channels/1338850450400874557/1557171564066250852
+Generale/Non Gaming:
+- Salotto:
+https://discord.com/channels/1338850450400874557/1546928019871109140
+- Guardiamo una puntata (per guardare show e film assieme):
+https://discord.com/channels/1338850450400874557/1502244471646060544
+
+Gli utenti che vogliono il loro canale vocale personale possono utilizzare la procedura “Crea Stanza”:
+https://discord.com/channels/1338850450400874557/1479418918740168817
+Cliccare su questo canale crea una stanza vocale temporanea che dura fino all’uscita di tutti gli utenti.
 
 ### Partecipazione
 
@@ -90,13 +150,15 @@ I membri possono partecipare alle conversazioni, proporre giochi, organizzare se
 
 Non è necessario partecipare a ogni evento o giocare esclusivamente con altri membri della community.
 
-Gli orari delle attività non sono necessariamente fissi: vengono concordati in base alla disponibilità delle persone interessate.
+Gli orari delle attività non sono necessariamente fissi: vengono concordati in base alla disponibilità delle persone interessate o estemporanei
 
 ### Segnalazioni e assistenza
 
-\[DA COMPLETARE: canale o procedura pubblica per chiedere aiuto allo staff.\]
+Per suggerimento, problemi o segnalazioni (da bug a torti subiti):
+https://discord.com/channels/1338850450400874557/1486362528798740612
+Il canale ha un’automatizzazione che manda ticket direttamente agli Admin. 
 
-\[DA COMPLETARE: procedura per segnalare problemi tecnici, comportamenti scorretti o situazioni da moderare.\]
+Altrimenti è possibile pingare @Staff (per assistenza generale), @Tech (per bug, problemi tecnici), @Eventi (per informazioni sugli eventi), @Moderatore
 
 Dr. Racoon non sostituisce lo staff umano e non può garantire l'apertura automatica di una segnalazione.
 
