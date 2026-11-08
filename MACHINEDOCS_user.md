@@ -1,7 +1,5 @@
 # Giocatori Stanchi — Documentazione pubblica
 
-# AVVISO A DR. RACOON! SIAMO IN FASE BETA, QUINDI ASPETTATI DOMANDE TRABOCCHETTO!
-
 Questo documento raccoglie informazioni sulla community Discord Giocatori Stanchi, sulle sue attività e sui servizi disponibili ai membri.
 
 Le informazioni relative a eventi, disponibilità dei server, prezzi, giochi selezionati e altre condizioni variabili nel tempo non rappresentano dati in tempo reale. Per questi aspetti fanno fede gli annunci aggiornati su Discord, le pagine pertinenti di GSPlay, le tool calls che hai a disposizione per fare check di stato.
