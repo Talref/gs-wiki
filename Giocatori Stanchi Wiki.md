@@ -1,4 +1,6 @@
 
+# ATTENZIONE, PAGINA IN LAVORAZIONE, LASCIARE IN PACE ERADAN!
+
 # Benvenuti!
 
 Questa è la master page della community Discord “Giocatori Stanchi”.

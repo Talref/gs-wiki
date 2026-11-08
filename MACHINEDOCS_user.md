@@ -158,7 +158,7 @@ Per suggerimento, problemi o segnalazioni (da bug a torti subiti):
 https://discord.com/channels/1338850450400874557/1486362528798740612
 Il canale ha un’automatizzazione che manda ticket direttamente agli Admin. 
 
-Altrimenti è possibile pingare @Staff (per assistenza generale), @Tech (per bug, problemi tecnici), @Eventi (per informazioni sugli eventi), @Moderatore
+Altrimenti è possibile pingare @Staff (per assistenza generale), @Tech (per bug, problemi tecnici), @Eventi (per informazioni sugli eventi), @Moderatore (per moderazione utenza, segnalazioni di comportamenti scorretti, abusi, ecc.)
 
 Dr. Racoon non sostituisce lo staff umano e non può garantire l'apertura automatica di una segnalazione.
 
@@ -220,14 +220,11 @@ La disponibilità dei giochi, il sistema di hosting, i prezzi e le istruzioni pe
     
 *   Non tutti i giochi sono gratuiti.
     
-*   Le informazioni sulla prossima serata devono essere verificate su GSPlay o negli annunci Discord.
+*   Le informazioni sulla prossima serata devono essere verificate su GSPlay o negli annunci Discord (canale eventi e canale Casual Friday). Anche il calendario integrato di Discord può riportare (ma non sempre), il programma del prossimo Casual Friday.
     
+L’orario varia, ma generalmente il ritrovo è il Venerdì sera alle 21.
 
-\[DA COMPLETARE: canale Discord per le comunicazioni sul Casual Friday.\]
-
-\[DA COMPLETARE: orario indicativo, se esiste.\]
-
-### Retroclub
+### Retroclub (AL MOMENTO SOSPESO FINO A DATA DA DESTINARSI)
 
 Il **Retroclub** è un'iniziativa dedicata al retrogaming e agli obiettivi collettivi.
 
@@ -252,13 +249,11 @@ Non è obbligatorio partecipare a ogni edizione.
 
 **Il gioco del mese cambia:** non indicare un titolo specifico senza una fonte aggiornata.
 
-\[DA COMPLETARE: canale Discord dedicato al retrogaming, se presente.\]
+Sono presenti thread e messaggi pinnati nel canale Retrogaming al riguardo.
 
 ### Altri eventi
 
 La community può organizzare sessioni multiplayer, iniziative temporanee, votazioni, serate cinematografiche e attività spontanee.
-
-\[DA COMPLETARE: eventuali eventi ricorrenti diversi dal Casual Friday e dal Retroclub.\]
 
 Non tutti gli eventi sono necessariamente registrati su GSPlay.
 
@@ -290,12 +285,12 @@ Per creare un account:
     
 4.  Accedere alla piattaforma.
     
-
 La password deve contenere almeno otto caratteri.
 
-\[DA VERIFICARE: eventuali limitazioni alla registrazione per utenti esterni alla community Discord.\]
+Il sito ha la sua guida a https://gsplay.daje.cc/guide
 
-\[DA COMPLETARE: procedura pubblica per recuperare credenziali o richiedere assistenza sull'account.\]
+Il problema più tipico che incontrano gli utenti è l’impossibilità di caricare la lista Steam: nel 90% dei casi il profilo è privato o non pubblica la lista dei giochi. Si può controllare dalla pagina web del profilo. 
+Il secondo problema più tipico è il caricare le liste GOG/Epic/Amazon Games. Si fa attraverso i launcher Heroic ed Heronite. La procedura è spiegata sul sito.
 
 ### Home
 
@@ -321,8 +316,6 @@ La sincronizzazione dipende dalla disponibilità e dalla visibilità dei dati re
 
 Questo permette di aggiungere alla piattaforma giochi provenienti da librerie gestite attraverso Heroic, nei limiti dei dati contenuti nell'esportazione e riconosciuti da GSPlay.
 
-\[DA VERIFICARE: procedura precisa per esportare il JSON dalla versione corrente di Heroic.\]
-
 **Inserimento manuale**
 
 GSPlay permette anche di gestire manualmente giochi presenti nel catalogo, senza dipendere esclusivamente dalle sincronizzazioni automatiche.
@@ -344,7 +337,7 @@ La sezione **Confronta** permette di cercare giochi in comune fra più utenti GS
 
 È particolarmente utile per rispondere alla domanda:
 
-*«A cosa possiamo giocare insieme senza comprare niente?»*
+*«Che giochi avete su X?»* quando un gruppo di utenti si trova in vocale.
 
 I risultati dipendono dalle librerie registrate e sincronizzate sulla piattaforma.
 
@@ -356,22 +349,11 @@ Le schede possono contenere informazioni come genere, modalità di gioco, copert
 
 Il catalogo utilizza anche metadati provenienti da **IGDB**.
 
-La presenza di un gioco nel catalogo non significa necessariamente che qualcuno della community lo possieda.
-
 ### Most Wanted
 
 **Most Wanted** raccoglie i giochi maggiormente desiderati dalla community sulla base delle wishlist Steam disponibili a GSPlay.
 
 Consente di individuare interessi condivisi e titoli che più membri vorrebbero acquistare o giocare.
-
-È importante distinguere:
-
-*   **Libreria:** giochi che risultano posseduti.
-    
-*   **Wishlist:** giochi che gli utenti desiderano.
-    
-
-Most Wanted non rappresenta un elenco di giochi già disponibili per giocare insieme.
 
 I dati vengono aggiornati periodicamente; la pagina può segnalare informazioni non recenti quando Steam non è disponibile.
 
@@ -395,10 +377,9 @@ Le informazioni disponibili possono comprendere:
     
 *   Film eventualmente inseriti in scaletta.
     
-
 I prezzi e la disponibilità delle offerte possono cambiare e devono essere verificati prima di qualsiasi acquisto.
 
-### Retroclub su GSPlay
+### Retroclub su GSPlay (SOSPESO)
 
 La pagina Retroclub permette di seguire le edizioni mensili, collegare RetroAchievements e visualizzare trofei, progressi e classifiche.
 
@@ -429,7 +410,7 @@ Questo elenco è storico: **non certifica che tali server siano attualmente onli
 
 Per conoscere i server attivi, consultare la pagina aggiornata di GSPlay.
 
-\[DA COMPLETARE: eventuali istruzioni pubbliche per richiedere un nuovo server o accedere a server protetti.\]
+Si accettano proposte in: Forum Videogiochi o #Multiplayer.
 
 ### Guida GSPlay
 
@@ -467,32 +448,11 @@ Comandi disponibili:
     
 *   `/birthday test` — genera privatamente un'anteprima del messaggio di auguri.
     
-
 I comandi rispondono privatamente.
-
-Quando un compleanno è registrato, GSbot prevede un messaggio automatico di auguri nel canale generale configurato, alle 00:01 del giorno previsto secondo il fuso orario italiano.
-
-Per i compleanni del 29 febbraio, negli anni non bisestili il promemoria viene anticipato al 28 febbraio.
-
-Gli auguri non devono indicare l'età della persona.
-
-#### Tag temporanei
-
-GSbot gestisce anche **tag temporanei**, implementati attraverso ruoli Discord.
-
-I tag possono essere utilizzati per aggregare partecipanti, organizzare gruppi o identificare temporaneamente interessi e attività.
-
-Lo staff autorizzato può creare tag e pubblicare messaggi contenenti pulsanti con cui i membri possono aderire.
-
-La gestione dei tag tramite i comandi `/tag` è riservata agli utenti autorizzati; **un membro ordinario non deve aspettarsi di poter creare o cancellare tag**.
-
-I tag possono avere una scadenza, oltre la quale vengono rimossi automaticamente.
-
-\[DA COMPLETARE: esempi pratici di utilizzo dei tag nella community.\]
 
 ### Dr. Racoon
 
-**Dr. Racoon** è l'assistente conversazionale AI della community.
+**Dr. Racoon** è l'assistente conversazionale AI della community. (sei tu)
 
 È un bot indipendente da GSbot.
 
@@ -529,8 +489,9 @@ In particolare, senza uno strumento specificamente integrato, Dr. Racoon non pu�
     
 *   Confermare lo stato di un evento non documentato.
     
-
 Può invece spiegare dove trovare queste informazioni e come utilizzare le funzionalità pertinenti.
+
+Se invece è presente un tool, puoi usare un tool. Il tool è gerarchicamente superiore a queste documentazioni, come source of truth.
 
 Le risposte generate automaticamente possono contenere errori. Per decisioni importanti, problemi di account o richieste allo staff, utilizzare i canali ufficiali della community.
 
@@ -540,9 +501,7 @@ Le risposte generate automaticamente possono contenere errori. Per decisioni imp
 
 ### Come trovo qualcuno con cui giocare?
 
-Puoi chiedere negli appositi canali Discord oppure utilizzare la funzione **Confronta** di GSPlay per individuare giochi già presenti nelle librerie di più membri.
-
-\[DA COMPLETARE: canale o sistema ufficiale per cercare compagni di gioco.\]
+Puoi chiedere negli appositi canali Discord. Principalmente “Play Now” per una partita veloce o “Forum Videogiochi” per organizzare a lungo termine.
 
 ### Come faccio a sapere quali giochi possediamo tutti?
 
@@ -562,7 +521,7 @@ Per i passaggi dettagliati consulta la **Guida GSPlay**.
 
 Consulta la pagina **Casual Friday** su GSPlay e gli annunci Discord.
 
-Quando è disponibile un evento aperto, puoi indicare se parteciperai. Se rispondi Sì o Forse, puoi anche votare fra i giochi candidati.
+Quando è disponibile un evento aperto, puoi indicare se parteciperai. Se rispondi Sì o Forse, puoi anche votare fra i giochi candidati. In generale, entrare nei canali vocali dei Casual Friday è aperto a tutti e sono tutti invitati caldamente a partecipare.
 
 ### Posso proporre un gioco per il Casual Friday?
 
@@ -576,7 +535,7 @@ Dipende dal programma pubblicato per l'evento corrente.
 
 Non esiste un gioco fisso per ogni Casual Friday. Consulta la relativa pagina GSPlay o gli annunci Discord.
 
-### Che gioco c'è questo mese al Retroclub?
+### Che gioco c'è questo mese al Retroclub? (SOSPESO)
 
 Il titolo cambia a seconda dell'edizione.
 
@@ -591,8 +550,6 @@ Consulta la pagina **Server** di GSPlay. Se un gioco non compare, non è possibi
 ### Come collego RetroAchievements?
 
 Apri la sezione Retroclub di GSPlay e utilizza la funzione per associare il tuo username RetroAchievements.
-
-\[DA VERIFICARE: eventuali requisiti di visibilità del profilo RetroAchievements.\]
 
 ### Come imposto il mio compleanno?
 
@@ -624,39 +581,8 @@ Dr. Racoon può fornire spiegazioni, ma non dispone automaticamente dei permessi
 | --- | --- |
 | [GSPlay](https://gsplay.daje.cc) | Librerie, catalogo, confronti, eventi, Retroclub e server |
 | [Repository GSPlay](https://github.com/Talref/gsplay) | Codice e documentazione tecnica del progetto |
-| Discord Giocatori Stanchi | Annunci, conversazioni, organizzazione degli eventi e comunicazioni ufficiali |
-| Guida GSPlay | Istruzioni per utilizzare la piattaforma |
+| Discord Giocatori Stanchi | Il core della community |
+| [Guida GSPlay](https://wiki.daje.cc) | Istruzioni per utilizzare la piattaforma |
 | [RetroAchievements](https://retroachievements.org) | Servizio esterno per obiettivi e progressi del retrogaming |
 
-\[DA COMPLETARE: collegamenti ai canali Discord e alle risorse ufficiali della community.\]
 
----
-
-## 8\. Informazioni ancora da documentare
-
-Questa sezione identifica deliberatamente i dati non ancora disponibili o da verificare.
-
-*   \[DA COMPLETARE\] Regolamento ufficiale e sue principali disposizioni.
-    
-*   \[DA COMPLETARE\] Struttura dei canali Discord e modalità di accesso.
-    
-*   \[DA COMPLETARE\] Ruoli pubblici, assegnazione degli interessi e notifiche.
-    
-*   \[DA COMPLETARE\] Contatti e procedure di assistenza.
-    
-*   \[DA COMPLETARE\] Collegamento d'invito Discord stabile.
-    
-*   \[DA COMPLETARE\] Eventi ricorrenti aggiuntivi.
-    
-*   \[DA COMPLETARE\] Esempi di utilizzo dei tag temporanei.
-    
-*   \[DA VERIFICARE\] Eventuali requisiti di accesso a GSPlay.
-    
-*   \[DA VERIFICARE\] Procedura corrente di esportazione Heroic.
-    
-*   \[DA VERIFICARE\] Eventuali condizioni particolari per RetroAchievements.
-    
-*   \[DA COMPLETARE\] Accesso, regole e richieste per i server dedicati.
-    
-
-I placeholder non rappresentano informazioni già definite. Non devono essere interpretati come regole, procedure operative o funzionalità esistenti.
