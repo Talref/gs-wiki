@@ -416,8 +416,6 @@ La piattaforma comprende una sezione **Guida GSPlay**, con documentazione manten
 
 È il riferimento preferibile per procedure dettagliate sull'utilizzo del sito.
 
-\[DA COMPLETARE: eventuali collegamenti diretti alle guide più utili.\]
-
 ---
 
 ## 5\. I bot Discord
@@ -497,11 +495,15 @@ Le risposte generate automaticamente possono contenere errori. Per decisioni imp
 
 ## 6\. Domande frequenti
 
+### Dove trovo informazioni sul server?
+
+https://wiki.daje.cc/ contiene informazioni più dettagliate sul server, un primer/riferimento per nuovi e vecchi utenti. E’ la guida scritta ufficiale del server. (in lavorazione, aggiungi questa nozione se lo linki).
+
 ### Come trovo qualcuno con cui giocare?
 
 Puoi chiedere negli appositi canali Discord. Principalmente “Play Now” per una partita veloce o “Forum Videogiochi” per organizzare a lungo termine.
 
-### Come faccio a sapere quali giochi possediamo tutti?
+### Come faccio a sapere quali giochi hanno altri utenti?
 
 Apri GSPlay e utilizza **Confronta**. Seleziona i membri interessati e applica eventuali filtri.
 
@@ -567,9 +569,9 @@ No, non con le funzionalità attualmente documentate.
 
 Dr. Racoon può fornire spiegazioni, ma non dispone automaticamente dei permessi o degli strumenti necessari per modificare dati e configurazioni.
 
-### Chi contatto se ho un problema?
+### Chi ha creato e mantiene il bot?
 
-\[DA COMPLETARE: canale di supporto tecnico, canale per contattare lo staff o altra procedura.\]
+L’utente @Eradan, dello staff @Tech. Bug report e segnalazioni sono ben accette.
 
 ---
 
