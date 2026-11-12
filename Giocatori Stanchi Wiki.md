@@ -1,13 +1,11 @@
 
-# ATTENZIONE, PAGINA IN LAVORAZIONE, LASCIATE LAVORARE ERADAN!
-
 # Benvenuti!
 
-Questa è la master page della community Discord “Giocatori Stanchi”.
+Se stai leggendo queste righe significa che sei uno di noi! Ti consiglio di mettere questa pagina nei bookmark per riferimenti futuri!
 
 ## Sommario
 
 - [[Informazioni Generali]]
 - [[Primer]] <-- Inizia da qui se sei nuovo!
-- [[Regolamento]]
+- [[Regolamento del Server]]
 - [[FAQ]]
