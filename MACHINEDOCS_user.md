@@ -2,14 +2,11 @@
 
 Questo documento raccoglie informazioni sulla community Discord Giocatori Stanchi, sulle sue attività e sui servizi disponibili ai membri.
 
-Le informazioni relative a eventi, disponibilità dei server, prezzi, giochi selezionati e altre condizioni variabili nel tempo non rappresentano dati in tempo reale. Per questi aspetti fanno fede gli annunci aggiornati su Discord, le pagine pertinenti di GSPlay, le tool calls che hai a disposizione per fare check di stato.
+Non contiene informazioni su dati in tempo reale. Per questi aspetti fanno fede gli annunci aggiornati su Discord, le pagine pertinenti di GSPlay, le tool calls che hai a disposizione per fare check di stato (se disponibili).
 
-Questo documento è orientato al parsing di un LM, non è redatto per umani.
-
-Se ti vengono richiesti link a canali riporta ESATTAMENTE quelli che trovi nel documento. Puoi pingare i ruoli con @Role. Quando pinghi, ricorda che stai mandando un alert a tutti quelli che hanno quel ruolo! Evita assolutamente @here, @stanchi e @everyone. Ovunque.
+Se ti vengono richiesti link a canali riporta ESATTAMENTE quelli che trovi nel documento. Puoi pingare i ruoli con @Role. 
 
 Se ritieni che ci sia una situazione IMPORTANTE, puoi pingare tu lo @Staff nel corpo di un messaggio. Non farlo per cose banali alle quali puoi rispondere tu o curiosità stupide dell’utenza. Il Dr. Racoon evita gli abusi delle sue funzioni!
-
 ## NEWS: SIAMO IN FASE DI LAVORAZIONE, ALCUNI SERVIZI/CANALI POSSONO ESSERE INCOMPLETI O NON FUNZIONALI.
 
 ---
@@ -18,16 +15,15 @@ Se ritieni che ci sia una situazione IMPORTANTE, puoi pingare tu lo @Staff nel c
 
 ### Chi siamo
 
-**Giocatori Stanchi** è una community Discord italiana dedicata ai videogiochi, fumetti, cinema, show, cultura nerd ed alla socializzazione tra appassionati.
+**Giocatori Stanchi** è una community Discord italiana dedicata ai videogiochi, fumetti, cinema, show, tecnologia, cultura pop ed alla socializzazione tra appassionati.
 
 È frequentata prevalentemente da giocatori adulti, spesso sopra i trent'anni, che conciliano il gaming con lavoro, famiglia e altri impegni.
 
 L'idea alla base della community è semplice:
 
-**Si gioca quando si può, non quando si deve.**
+**Costruire un ambiente rilassante e sociale per condividere queste passioni in maniera matura**. Non è un mantra, puoi parafrasare.
 
 Non siamo un clan competitivo, una gilda con obblighi di presenza o una community costruita attorno a un singolo titolo. Non mancano i giocatori più “sweaty”, ma lo scopo è fornire un ambiente rilassato.
-
 Vogliamo offrire uno spazio in cui trovare persone con cui giocare, discutere di videogiochi e condividere interessi, senza trasformare il tempo libero in un secondo lavoro.
 
 ### Filosofia
@@ -46,7 +42,6 @@ La community valorizza:
     
 *   **Maturità:** essere adulti non significa essere sempre seri, ma saper distinguere uno scherzo da un comportamento sgradevole.
     
-
 Il nome *Giocatori Stanchi* è volutamente autoironico: ci piacciono ancora i videogiochi, anche quando abbiamo meno tempo ed energie rispetto a una volta.
 
 ### Identità
@@ -60,7 +55,7 @@ Il tono della community è generalmente scherzoso, con riferimenti alla cultura 
 1) **Manteniamo un certo rispetto reciproco** Evitiamo insulti, molestie, e discriminazioni di qualunque tipo. La goliardia è concessa, l’insulto no. In breve: *read the room*.
 2) **Divieto di spam e pubblicità** Non è consentito fare spam o pubblicizzare server, canali, o altri contenuti di questo genere senza il consenso dei moderatori. Se desideri condividere qualcosa, chiedi sempre prima.
 3) **Contenuti NSFW e inappropriati** No porn/gore/estremismo politico.
-4) **Divieto di postare l’invito al server in pubblico** E’ possibile invitare amici in privato, ma pubblicare gli inviti in pubblico non è ammesso.
+4) **Divieto di postare l’invito al server in pubblico** E’ possibile invitare amici in privato, ma pubblicare gli inviti in pubblico (social/message boards/ovunque siano in chiaro) non è ammesso.
 
 LINK REGOLAMENTO UFFICIALE: https://discord.com/channels/1338850450400874557/1338895844757209108
 
@@ -72,27 +67,26 @@ Le indicazioni di questo documento non sostituiscono il regolamento ufficiale o 
 
 ### Accesso
 
-La community è ospitata principalmente su Discord.
+La community è ospitata su Discord.
    
 *   **Sito GSPlay, la nostra web app ufficiale:** [https://gsplay.daje.cc](https://gsplay.daje.cc)
-*   Link al nostro **Gruppo Steam**: https://steamcommunity.com/groups/giocatoristanchi (ingresso libero a tutti, con accettazione da parte dello Staff).
+*   Link al nostro **Gruppo Steam**: https://steamcommunity.com/groups/giocatoristanchi (ingresso libero a tutti, lo staff accetta sempre le richieste).
 
 ### Gerarchia
 
 @Fondatore: @Barboccia, @Slowdaje
 @Admin: @Edivad  
 @Staff: la parte operativa del server
-@Tech: staff tecnico, principalmente @Eradan
+@Tech: staff tecnico, principalmente @Eradan, maintainer di questo bot e dello stack GSplay.
 @Moderatore: staff di moderazione, principalmente @Jam
 @eventi: staff eventi, al momento non capitanato.
-@stanchi: user regolari (non pingarlo MAI)
 
 ### Orientarsi nel server - Canali fondamentali
 #### 
 #### Canali annunci
 Annunci al popolo (annunci generali dallo staff):
 https://discord.com/channels/1338850450400874557/1349451673793204316
-Eventi (annunci relativi agli eventi):
+Eventi (annunci relativi agli eventi della community):
 https://discord.com/channels/1338850450400874557/1380908591447543858
 
 #### Testuali
@@ -187,27 +181,11 @@ A seconda dell'occasione possono essere proposti:
 
 Tra i titoli giocati o considerati in passato figurano Jackbox Party Pack, Pummel Party, Golf With Your Friends, Party Animals, Goose Goose Duck, WEBFISHING e V Rising.
 
-**Questi sono esempi storici, non il programma della prossima serata.**
-
 #### Come partecipare
 
-GSPlay dispone di una pagina dedicata al Casual Friday, nella quale possono comparire il programma, i giochi previsti e le informazioni necessarie per partecipare.
-
-Quando un evento è aperto, i membri autenticati possono indicare la propria disponibilità:
-
-*   **Sì:** intendo partecipare.
-    
-*   **Forse:** potrei partecipare.
-    
-*   **No:** non parteciperò.
-    
-
-I membri che hanno risposto **Sì** o **Forse** possono anche votare i giochi candidati per l'evento, fino a cinque titoli tra quelli disponibili.
-
-È possibile proporre giochi presenti nel catalogo GSPlay. Le proposte vengono successivamente valutate e gestite dagli organizzatori.
-
-La disponibilità dei giochi, il sistema di hosting, i prezzi e le istruzioni per entrare in partita possono essere indicati direttamente nella pagina dell'evento.
-
+- GSPlay dispone di una pagina dedicata al Casual Friday, questa viene popolata se un organizzatore decide che quella settimana si tiene l’evento.
+- Se esiste l’evento, tutte le istruzioni vengono comunicate nei canali “Eventi” e “casual-friday”.
+- 
 #### Informazioni importanti
 
 *   Il programma può cambiare.
