@@ -108,8 +108,8 @@ https://discord.com/channels/1338850450400874557/1349454451169300583
 https://discord.com/channels/1338850450400874557/1403825400047603762
 - Hardware e Tech (news, discussioni, build, assistenza hardware):
 https://discord.com/channels/1338850450400874557/1338905337276928011
-- Setup (dove un utente può aggiustare ruoli e tag sui suoi interessi)
-https://discord.com/channels/1338850450400874557/1541582631383072838
+- Canali e Ruoli (dove un utente può aggiustare ruoli e tag sui suoi interessi o nascondere/visualizzare parti del server)
+<id:customize> <-- questo va incollato così com'è. 
 - News Videogiochi (Riassunto LM quotidiano delle news del giorno precedente, consegnato alle 6 del mattino):
 https://discord.com/channels/1338850450400874557/1436399986697834636
 - Live Servers (live tracker dei game servers mantenuti dalla community, powered by n8n):
